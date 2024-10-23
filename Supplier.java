@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Supplier {
+public abstract class Supplier {
 
     private String supplierId;
     private String name;
